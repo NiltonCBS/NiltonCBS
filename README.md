@@ -1,11 +1,23 @@
-## 👋 Olá, eu sou o Nilton!
+## 👋 Olá, eu sou o Nilton Santos!
 
-🎓 Estudante de **Sistemas para Internet (FATEC Jales)**  
+🎓 Formado em de **Sistemas para Internet (FATEC Jales)**  
 💻 Desenvolvedor em formação com foco em **Back-end e Front-end**  
-🏫 Instrutor de Informática concursado  
+🌱 Estudando Java, JavaScript e React. 
 🚀 Buscando oportunidade na área de tecnologia
 
 ---
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=NiltonCBS&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=NiltonCBS&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=NiltonCBS&show_icons=true" />
+</picture>
 
 ## 🛠️ Tecnologias
 
