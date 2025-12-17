@@ -31,8 +31,8 @@
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NiltonCBS&layout=compact)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NiltonCBS&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NiltonCBS&layout=compact)
  
 ---
 
